@@ -61,3 +61,42 @@ header {
     color:  #328998;
     background: #328998;
 }
+
+h4 {
+    display: block;
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 30px;   
+}
+
+
+.col1, .col2, .col3 {
+    text-align: justify;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 70px;
+}
+
+
+.icon1 {
+text-align: center;
+color: white;
+background-color: #328998;
+margin-bottom: 10px;
+}
+
+.icon2 {
+    text-align: center;
+    color: white;
+    background-color: #328998;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+
+.card {
+    margin: 0 20px;
+    background-color: #328998;
+}
